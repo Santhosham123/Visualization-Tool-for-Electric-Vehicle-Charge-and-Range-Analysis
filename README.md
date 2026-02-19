@@ -1,8 +1,11 @@
-Visualization Tool for Electric Vehicle Charge and Range Analysis
+🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
+📌 Project Overview
 
-This is a data visualization–based project developed during our internship to analyze and understand electric vehicle (EV) performance using interactive dashboards. The system helps visualize key metrics such as battery charge levels, driving range, charging time, and efficiency in a structured and user-friendly format.
+This project is a data visualization–based system developed during an internship program to analyze and understand Electric Vehicle (EV) performance using interactive dashboards.
 
-The project integrates web technologies with Tableau Software to transform raw EV dataset information into meaningful visual insights for analysis and decision-making.
+The system visualizes key metrics such as battery charge levels, driving range, charging time, and efficiency in a structured and user-friendly format.
+
+The project integrates web technologies with Tableau to transform raw EV dataset information into meaningful visual insights for analysis and decision-making.
 
 🔧 Key Features
 
@@ -54,20 +57,16 @@ Dashboard Integration and UI Design
 
 🎯 Project Objective
 
-The main objective of this project is to analyze electric vehicle charge and range data using visualization techniques and present the insights through an interactive dashboard that improves understanding of EV performance trends.
+The main objective of this project is to analyze electric vehicle charge and range data using visualization techniques and present insights through an interactive dashboard that improves understanding of EV performance trends.
 
-👥 Team Members (Internship Project)
+👥 Team Details (Smartinternz Internship)
 
-Team ID: LTVIP2026TMIDS24254
-
-👤 Team Leader: Challa Hemasri
-
-👤 Team Member: Chandu Mounika
-
-👤 Team Member: Chandika Vishnu Vardhan
-
-👤 Team Member:Deepak Yanna
+Team ID: LTVIP2026TMIDS24271
+Team Leader: Kamala Santhosham
+Team Member: Peddapalli Likhita
+Team Member: Mudili Lakshmi Srimannarayana Charan Teja
+Team Member: Nalluri Padmavathi
 
 📎 License
 
-This project was developed as part of an internship/guided project program and is intended for educational purposes only.
+This project was developed as part of a Smartinternz internship program and is intended for educational purposes only.
